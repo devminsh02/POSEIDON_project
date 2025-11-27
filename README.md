@@ -60,4 +60,4 @@ Patch Embedding → Positional Embedding → Transformer Encoder 순으로 처�
 ## 👥 Contributors
 
 - **민선홍 (Sun-hong Min)**
-- **최문성 (Moonseong Choi)**
+- **최문성 (Moonseong Choi)** 
